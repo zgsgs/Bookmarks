@@ -37,7 +37,7 @@
     "@types/nprogress": "^0.2.0",
     "@unocss/reset": "^0.32.13",
     "@vitejs/plugin-vue": "^2.3.2",
-    "@vue/tsconfig": "^0.1.3",
+    "@vue/tsconfig": "^0.7.0",
     "@zgsgs/eslint-config": "^0.0.6",
     "critters": "^0.0.16",
     "eslint": "^8.14.0",
